@@ -1,30 +1,3 @@
-# 🤖 AI Agents Crash Course: Build with Python & OpenAI
-
-<div align="center">
-
-<a href="https://www.udemy.com/course/ai-agents-crash-course/?referralCode=F4BD5DE2C0DD0F1FF71B">
-<img src=".dev/course-image.jpg" alt="AI Agents Crash Course" width="400"/></a>
-
-[![Udemy Course](https://img.shields.io/badge/Udemy-AI%20Agents%20Crash%20Course-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/ai-agents-crash-course/?referralCode=F4BD5DE2C0DD0F1FF71B)
-
-</div>
-
----
-
-## 📚 **Enrolled Student? Start Here!**
-
-1. **📖 Bookmark course materials** - Go to [**COURSE_RESOURCES.md**](./COURSE_RESOURCES.md) for all code & exercises
-
-2. **🍴 Fork this repository** - Click "Fork" button (top right) to create your own copy
-> 💡 **Why fork?** We are going to deploy our solution to the cloud and you'll need your own GitHub repo for that!
-3. **Click _Code_ and start a codespace. You'll be up and running in a minute!** 
-
----
-
-## 🚀 From Zero to Production AI Agents in 4 Hours
-
-The most practical, hands-on course for building **Agentic AI systems** with **OpenAI's Agents SDK**. No fluff, just code.
-
 ### What You'll Build
 
 A complete **AI-powered nutrition assistant** featuring:
@@ -67,7 +40,3 @@ A complete **AI-powered nutrition assistant** featuring:
 - OpenAI API key (instructions in course)
 - Enthusiasm to build! 🎯
 
-## 👨‍🏫 Your Instructors
-
-**Frank Kane** - Ex-Amazon/IMDb, 17 patents in ML, 1M+ students  
-**Zoltan C. Toth** - 20+ years AI infrastructure, Ex-Databricks instructor
